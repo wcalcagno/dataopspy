@@ -1,0 +1,9 @@
+{
+	"name": "demoparaguay",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7cbe27d-bc38-4944-b843-cfe4ea48f026",
+		"tenantId": "54c99288-570f-4357-8ec5-86bd173a4960"
+	}
+}
